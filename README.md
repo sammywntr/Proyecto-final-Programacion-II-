@@ -1,10 +1,9 @@
 # Proyecto-final-Programacion-II-
 
 **DESCRIPCIÓN:**
-El problema del Síndrome de Ovario Poliquístico (SOP) es adecuado para resolverse mediante Programación Orientada a Objetos (POO) porque involucra diferentes tipos de datos y procesos que pueden organizarse en clases con responsabilidades claras. La POO permite estructurar el programa de forma modular, reutilizable y fácil de mantener, lo que facilita el análisis y la predicción de la probabilidad de que una mujer presente SOP.
+\nEl problema del Síndrome de Ovario Poliquístico (SOP) es adecuado para resolverse mediante Programación Orientada a Objetos (POO) porque involucra diferentes tipos de datos y procesos que pueden organizarse en clases con responsabilidades claras. La POO permite estructurar el programa de forma modular, reutilizable y fácil de mantener, lo que facilita el análisis y la predicción de la probabilidad de que una mujer presente SOP.
 El presente programa tiene como finalidad desarrollar una herramienta capaz de realizar una predicción aproximada de la probabilidad de que una mujer presente o no el Síndrome de Ovario Poliquístico (SOP), a partir del análisis de determinados datos proporcionados por el usuario. Asimismo, busca generar y mostrar estadísticas representativas de los registros recopilados, permitiendo identificar posibles patrones, tendencias y factores asociados a esta condición.
 
--
 
 **USO:**
 El programa permite analizar datos hormonales y características clínicas de una paciente para estimar la probabilidad de que presente Síndrome de Ovario Poliquístico (SOP). Para utilizar el sistema, el usuario ingresa o carga información clave como edad, niveles hormonales (LH, FSH, AMH, TSH, PRL) Y medidas clínicas.
